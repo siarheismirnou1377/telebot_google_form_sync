@@ -9,11 +9,11 @@
 - [Команда проекта](#команда-проекта)
 
 ## Технологии
-- [Python]([https://www.gatsbyjs.com/](https://www.python.org/))
-- [Telegram]([[https://www.gatsbyjs.com/](https://www.python.org/)](https://web.telegram.org/))
+- [Python](https://www.python.org/)
+- [Telegram](https://web.telegram.org/)
 
 ### Требования
-Для установки и запуска проекта, необходим [Python]([https://www.gatsbyjs.com/](https://www.python.org/)) v3.10+.
+Для установки и запуска проекта, необходим [Python](https://www.python.org/) v3.10+.
 Так же нужно получить токен телеграм бота у отца ботов.
 
 ## Развёртывание
