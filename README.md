@@ -78,5 +78,5 @@ None
 - [Сергей Смирнов.](https://www.linkedin.com/in/sergey-smirnov-8749a2237/) — Python Software Engineer
 
 ## Задонатить
-Если у вас возникли желание меня поддержать
+Если у вас возникло желание меня поддержать -
 [Boosty](https://boosty.to/bigsmirnovsky/donate) - Big Smirnovsky
